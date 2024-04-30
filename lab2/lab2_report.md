@@ -12,7 +12,7 @@ Lab: Lab2
 
 Date of create: 30.04.2024
 
-Date of finished: 
+Date of finished: 30.04.2024
 
 Алгоритм выполнения работы
 

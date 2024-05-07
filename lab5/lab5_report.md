@@ -43,3 +43,7 @@ Date of finished:
 9. Задача в статусе "Готово"
 <img width="1230" alt="image" src="https://github.com/ugolmariia/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship--U4125-ugolnikova_m_v/assets/103264273/de7edc99-840c-4934-942a-b9fbb4a21b6c">
 
+10. Скрин создания ветки через git
+<img width="1408" alt="image" src="https://github.com/ugolmariia/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship--U4125-ugolnikova_m_v/assets/103264273/d117bb87-1fd5-4f7e-828d-6ea0853aa9fb">
+
+
